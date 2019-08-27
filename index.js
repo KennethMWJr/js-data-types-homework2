@@ -153,15 +153,13 @@ var grandHotelTremezzoPastGuests = [];
 console.log(grandHotelTremezzoPastGuests);
 
 
-
-
-
-
 // George Clooney had a scooter accident so he has to check out.
 // Remove him from grandHotelTremezzoGuests using the splice method. (Google and MDN are your friends here 😊)
 // Then use the push method to add his name to 'grandHotelTremezzoPastGuests'
 // Log both grandHotelTremezzoGuests and grandHotelTremezzoPastGuests in the same console.log statement.
 
+grandHotelTremezzoGuests.shift(); 
+console.log(grandHotelTremezzoGuests);
 
 
 
