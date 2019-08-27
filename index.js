@@ -105,17 +105,12 @@ grandHotelTremezzoGuests.push("Fabio");
 console.log(grandHotelTremezzoGuests);
 
 
-
-
-
 // False alarm! Fabio was on a roller coaster and got hit in the face with a pigeon
 // so he won't be able to stay at the hotel remove him from the end of the array.
 // Log grandHotelTremezzoGuests to the console.
 
-
-
-
-
+grandHotelTremezzoGuests.pop();
+console.log(grandHotelTremezzoGuests);
 
 
 // A new guest is checking in for real! Add 'Mario Batali' to the end of our array.
