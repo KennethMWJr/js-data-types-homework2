@@ -149,7 +149,8 @@ console.log(grandHotelTremezzoGuests.length);
 // Create a variable 'grandHotelTremezzoPastGuests' set to an empty Array.
 // Log grandHotelTremezzoPastGuests to the console
 
-
+var grandHotelTremezzoPastGuests = [];
+console.log(grandHotelTremezzoPastGuests);
 
 
 
