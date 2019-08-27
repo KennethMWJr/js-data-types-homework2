@@ -181,6 +181,12 @@ console.log(grandHotelTremezzoGuests.length);
 // Use a for loop to log out '*PERSON'S NAME* gets a bottle of Nero de Como'
 // for each guest in the grandHotelTremezzoGuests array.
 
+grandHotelTremezzoGuests.forEach(personName);
+
+function personName(item) {
+	console.log(item + " Nero de Como");
+}
+
 
 
 
