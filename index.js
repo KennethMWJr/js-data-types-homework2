@@ -132,6 +132,8 @@ console.log(grandHotelTremezzoGuests);
 // by checking the items count of grandHotelTremezzoGuests array.
 // Log totalGuests to the console.
 
+var totalGuests = grandHotelTremezzoGuests.length; 
+console.log(grandHotelTremezzoGuests.length);
 
 
 /********************************
