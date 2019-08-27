@@ -74,6 +74,12 @@ const pounds = 155;
 // to a variable called "kilograms"
 // Log kilograms to the console
 
+const pounds = 180;
+var kilograms = function {
+	pounds * 2.20462; 
+    console.log(kilograms);
+}; 
+
 
 
 
