@@ -98,12 +98,11 @@ var grandHotelTremezzoGuests = ['George Clooney', 'Silvio Berlusconi', 'Isabella
 console.log(grandHotelTremezzoGuests);
 
 
-
-
 // A new guest is checking in! Add "Fabio" to the end of the array.
 // Log grandHotelTremezzoGuests to the console.
 
-
+grandHotelTremezzoGuests.push("Fabio");
+console.log(grandHotelTremezzoGuests);
 
 
 
