@@ -197,8 +197,6 @@ function rowdyPerson(item) {
 	console.log(item + " please hush up!!!");
 }
 
-
-
 /********************************
  *
  * STEP G: Grand Hotel Tremezzo: Part 4
@@ -209,9 +207,8 @@ function rowdyPerson(item) {
 // Create an empty array assigned to a variable called sleepingGuests
 // Log sleepingGuests to the console.
 
-
-
-
+var sleepingGuests = [];
+console.log(sleepingGuests);
 
 
 
