@@ -74,14 +74,9 @@ const pounds = 155;
 // to a variable called "kilograms"
 // Log kilograms to the console
 
-const pounds = 180;
-var kilograms = function {
-	pounds * 2.20462; 
-    console.log(kilograms);
-}; 
-
-
-
+var kilograms = pounds * 0.453592;
+console.log(kilograms)
+//I gave "p" a value to check my answer. 
 
 
 
@@ -93,13 +88,14 @@ var kilograms = function {
 
 
 
-
-
 // Create a variable grandHotelTremezzoGuests that is equal to an array containing three strings:
 // 'George Clooney' 'Silvio Berlusconi'  and 'Isabella Rossellini'.
 // Log grandHotelTremezzoGuests to the console.
 
 
+var grandHotelTremezzoGuests = ['George Clooney', 'Silvio Berlusconi', 'Isabella Rossellini']
+
+console.log(grandHotelTremezzoGuests);
 
 
 
