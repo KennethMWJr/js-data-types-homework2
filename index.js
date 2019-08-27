@@ -121,22 +121,11 @@ grandHotelTremezzoGuests.push("Mario Batali");
 console.log(grandHotelTremezzoGuests);
 
 
-
-
-
-
-
-
-
 // Another new guest is checking in for real! Add 'Mario Balotelli' to the end of our array.
 // Log grandHotelTremezzoGuests to the console.
 
-
-
-
-
-
-
+grandHotelTremezzoGuests.push("Mario Balotelli");
+console.log(grandHotelTremezzoGuests);
 
 
 // Create a variable called totalGuests that is equal to the number of guests staying in our hotel
