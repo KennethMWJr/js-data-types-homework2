@@ -216,6 +216,13 @@ console.log(sleepingGuests);
 // (Don't remove them from grandHotelTremezzoGuests.)
 // Log sleepingGuests to the console.
 
+sleepingGuests = grandHotelTremezzoGuests;
+console.log(sleepingGuests);
+
+
+
+	
+
 
 
 
